@@ -1,2 +1,2 @@
 # TyporaPic
-这是用于存储Typora的图片
+ykl的Typora图床
