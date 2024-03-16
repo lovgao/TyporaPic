@@ -10,5 +10,5 @@ https://cdn.jsdelivr.net/gh/用户名/仓库名/
 
 # 遇到的问题
 - 配置好PicGo后在Typora里点击“验证图片上传”提示：Request failed with status code 401
-- 解决：token过期，重新生成
-- 参考：https://blog.csdn.net/qq_62637200/article/details/130535516
+  - 解决：token过期，重新生成
+  - 参考：https://blog.csdn.net/qq_62637200/article/details/130535516
